@@ -5,6 +5,7 @@ permalink: /resume/
 ---
 
 ---
+
 # Work Experience
 
 ### Deloitte Support Services	- Hyderabad, India
