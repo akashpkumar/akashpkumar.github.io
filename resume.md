@@ -4,8 +4,6 @@ title: Resume
 permalink: /resume/
 ---
 
----
-
 # Work Experience
 
 ### Deloitte Support Services	- Hyderabad, India
@@ -77,4 +75,4 @@ permalink: /resume/
 
 * Winner of LightBulb, a competition organized within Deloitte, to identify and propose solutions for workplace problems
 
-
+* * *

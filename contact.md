@@ -4,7 +4,6 @@ title: Contact
 permalink: /contact/
 ---
 
-****
 
 [linkedin.com/in/akashpkumar](https://www.linkedin.com/in/akashpkumar)
 
