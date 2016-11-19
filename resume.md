@@ -39,22 +39,13 @@ permalink: /resume/
 	*Bachelor of Engineering in Computer Science \| May 2013*
 
 # Technical Skills
-
-<table>
-  <tr>
-    <td>Java</td>
-    <td>Python</td>
-    <td>SQL</td>
-    <td>Android Development</td>
-  </tr>
-  <tr>
-    <td>SAP ABAP</td>
-    <td>Microsoft Sharepoint</td>
-    <td>Microsoft Office Suite</td>
-    <td></td>
-  </tr>
-</table>
-
+- Java
+- Python
+- SQL
+- Android Development
+- SAP ABAP
+- Microsoft SharePoint
+- Microsoft Office Suite
 
 # Projects
 

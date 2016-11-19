@@ -5,10 +5,10 @@
 layout: page
 ---
 
-Hi! I'm Akash, a graduate student at University at Buffalo, currently pursuing my Masters in Computer Science. 
+Hi! I'm **Akash**, a graduate student at University at Buffalo, currently pursuing my Masters in Computer Science. 
 
 I have over 3 years of industry experience working in a fast-paced Agile environment, delivering robust solutions for client needs.
 
-I am currently looking for Internship opportunites for Summer 2017.
+I am currently **looking for Internship opportunites for Summer 2017.**
 
 Feel free to go through my Resume and look over the 'Contact' section in case you want to get in touch. Happy reading!
