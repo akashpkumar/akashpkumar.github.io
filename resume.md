@@ -4,10 +4,17 @@ title: Resume
 permalink: /resume/
 ---
 
-# Work Experience
+## Work Experience
+
+### Siemens Corporate Technology - Princeton, NJ
+*Research Professional, April 2018 - Present*
+
+* Research, primarily into Spoken Dialog Systems and their possible applications for Siemens products and services
+
+* Assisting Siemens’ Business Units with Software Architecture and Testing issues, including performing architecture and code reviews and new development to meet business goals
+
 
 ### Deloitte Support Services	- Hyderabad, India
-
 *Analyst, July 2013 – July 2016*
 
 * Developed and provided support/enhancements to various SAP applications for the firm’s finance division
@@ -17,7 +24,6 @@ permalink: /resume/
 * Led a team of 8 people that handled the onboarding of new hires into the company
 
 ### Honeywell	- Bengaluru, India
-
 *Intern - Android Developer, January 2013 – June 2013*
 
 * Developed a companion Android application for Honeywell’s Home Automation system that functioned via speech recognition
@@ -28,42 +34,40 @@ permalink: /resume/
 
 	
 
-# Education
+## Education
 
-* **University at Buffalo, The State University of New York \| Buffalo, NY  \| GPA - N/A**
+* **University at Buffalo, The State University of New York \| Buffalo, NY  \| GPA - 3.81/4**
 
-	*Master of Science in Computer Science \| Expected : December 2017*
+	*Master of Science in Computer Science \|  December 2017*
 
 * **Manipal Institute of Technology, Manipal University \| Manipal, India \| GPA - 8.16/10**
 
 	*Bachelor of Engineering in Computer Science \| May 2013*
 
-# Technical Skills
-- Java
-- Python
-- SQL
-- Android Development
-- SAP ABAP
-- Microsoft SharePoint
-- Microsoft Office Suite
+## Technical Skills
 
-# Projects
-
-* **RSS Reader for Android**
-
-	* Android application that provided a consolidated view of RSS feeds that a user follows
+| Proficiency   | Skill |
+| ------------- | ------------- |
+| Proficient  | Java, Android Development |
+| Intermediate  | Python, SQL, Linux/CLI, Shell Scripting, Git, Maven  |
+| Basic  | C/C++, HTML/CSS, JavaScript, React.js, R, Jenkins, Solr, Hadoop, Spark |
 
 
-* **Optical Digit Recognition using Neural Networks**
+## Academic Projects
+- **Question Answering System**
+Developed a basic question answering system hosted on Amazon Web Services using Solr, Python and spaCy for NLP, which used Twitter data to provide concise answers to questions on a specific topic
+- **Song Lyrics Generation using LSTMs**
+Explored song lyrics generation by training an LSTM network using Keras on a dataset of an artist’s songs. The resultant network was used to generate novel lyrics. 
+- **Distributed Key-Value Store**
+An Android application in Java to simulate a Distributed System similar to Amazon’s Dynamo which enables storing information in Key-Value pairs with partition, replication and machine failure handling
+- **Disparity Maps for Stereo Vision**
+Wrote Python scripts to generate Disparity Maps using SSD (Sum of squared differences) and implemented a dynamic programming approach from the paper ‘A Maximum Likelihood Stereo Algorithm’
+- **Word Co-occurrence using Hadoop**
+Used Hadoop to perform word co-occurrence (n-grams) on tweets as well as a collection of large documents and plotted the performance as n was varied
+- **Inverted Index and Boolean query processing
+Using Java and Lucene API** <br> Created an inverted index from a given Lucene index and implemented term-at-a-time and document-at-a-time strategies to retrieve Boolean query results
 
-	* Created a neural network in Java from scratch and trained it with a large dataset of handwritten digits. The resulting network showed a very high recognition accuracy
 
-# Activities
 
-* One of top 10 students to complete Nettech, a Network Management course, from a batch of 101 students
-
-* Placed 3rd in two technical coding events in Techtatva, a national level technical festival
-
-* Winner of LightBulb, a competition organized within Deloitte, to identify and propose solutions for workplace problems
 
 * * *
